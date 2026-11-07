@@ -18,8 +18,8 @@ __pycache__/
 .vscode/
 
 # Local data
-data/uploads/
-data/vector_store/
+data/*
+!data/.gitkeep
 
 # OS files
 .DS_Store
